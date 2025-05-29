@@ -1,0 +1,62 @@
+*{
+    padding: 0 ;
+    margin: 0;
+    box-sizing: border-box;
+}
+.back{
+    background-image: url('https://as1.ftcdn.net/v2/jpg/01/13/19/68/1000_F_113196882_4SIoYVqgkJmEED9DizSOKEfp5jQCwjLr.jpg');
+    background-size: cover;
+    /*https://tinyjpg.com/images/social/website.jpg */
+}
+.navbar{
+    background-image: linear-gradient(#3068ff, #6bb8e9);
+}
+.navbar-brand{
+    font-size: 30px !important;
+    font-weight: bold;
+}
+
+.nav-item{
+    font-size: 22px !important; 
+    font-weight: bold;
+}
+.text{
+    font-weight: bold;
+    font-style :italic;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+.car{
+    font-weight: bold;
+    font-style :italic;
+    font-family:'Courier New', Courier, monospace;
+    color: #ffffff;
+}
+.tota{
+    font-weight: bold;
+    font-style :italic;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    color: #ffffff;
+}
+.king{
+    padding: 24px;
+}
+
+.action-btn{
+    
+    background-image: linear-gradient(#3068ff, #6bb8e9); 
+    border: none !important;
+    box-shadow: none !important;
+    font-size: 22px !important;
+}
+
+/*THE BELOW LINE USED
+to active the buttons(when the button click (look like that this button is clicked)
+
+*/
+.nav-tabs .nav-link.active{
+    background-image: linear-gradient(#3068ff, #6bb8e9);
+    color: #fff !important;
+}
+
